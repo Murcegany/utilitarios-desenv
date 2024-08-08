@@ -1,0 +1,5 @@
+# Ignorar a pasta "secret"
+secret/
+
+# Ignorar arquivos específicos
+sensitive_file.txt

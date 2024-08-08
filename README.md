@@ -6,6 +6,8 @@ Uma função para facilitar o consumo de APIs, incluindo tratamento de erros e c
 
 ```bash
 UtilitariosDesenv
+├── bin
+├── obj
 ├── Helpers
 │   ├── ApiHelper.cs
 │   ├── JsonHelper.cs
