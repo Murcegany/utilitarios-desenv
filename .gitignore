@@ -1,5 +1,3 @@
-# Ignorar a pasta "secret"
-secret/
-
-# Ignorar arquivos específicos
+# Ignorar arquivos sensíveis
+.github/workflows/secret.yml
 sensitive_file.txt
