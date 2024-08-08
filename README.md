@@ -3,3 +3,14 @@ A Biblioteca de Utilitários para Desenvolvimento é uma coleção de ferramenta
 
 - Função para Consumo de API
 Uma função para facilitar o consumo de APIs, incluindo tratamento de erros e configuração de cabeçalhos padrão.
+
+```bash
+UtilitariosDesenv
+├── Helpers
+│   ├── ApiHelper.cs
+│   ├── JsonHelper.cs
+│   ├── HttpHelper.cs
+│   ├── AuthHelper.cs
+│   └── ErrorHandlingHelper.cs
+└── UtilitariosDesenv.csproj
+```
