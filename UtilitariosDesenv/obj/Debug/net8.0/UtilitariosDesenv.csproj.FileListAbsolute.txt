@@ -3,3 +3,11 @@ C:\Users\mvmar\OneDrive\Área de Trabalho\github\utilitarios-desenv\UtilitariosD
 C:\Users\mvmar\OneDrive\Área de Trabalho\github\utilitarios-desenv\UtilitariosDesenv\obj\Debug\net8.0\UtilitariosDesenv.AssemblyInfo.cs
 C:\Users\mvmar\OneDrive\Área de Trabalho\github\utilitarios-desenv\UtilitariosDesenv\obj\Debug\net8.0\UtilitariosDesenv.csproj.CoreCompileInputs.cache
 C:\Users\mvmar\OneDrive\Área de Trabalho\github\utilitarios-desenv\UtilitariosDesenv\obj\Debug\net8.0\UtilitariosDesenv.sourcelink.json
+C:\Users\mvmar\OneDrive\Área de Trabalho\github\utilitarios-desenv\UtilitariosDesenv\bin\Debug\net8.0\UtilitariosDesenv.deps.json
+C:\Users\mvmar\OneDrive\Área de Trabalho\github\utilitarios-desenv\UtilitariosDesenv\bin\Debug\net8.0\UtilitariosDesenv.dll
+C:\Users\mvmar\OneDrive\Área de Trabalho\github\utilitarios-desenv\UtilitariosDesenv\bin\Debug\net8.0\UtilitariosDesenv.pdb
+C:\Users\mvmar\OneDrive\Área de Trabalho\github\utilitarios-desenv\UtilitariosDesenv\obj\Debug\net8.0\UtilitariosDesenv.csproj.AssemblyReference.cache
+C:\Users\mvmar\OneDrive\Área de Trabalho\github\utilitarios-desenv\UtilitariosDesenv\obj\Debug\net8.0\UtilitariosDesenv.dll
+C:\Users\mvmar\OneDrive\Área de Trabalho\github\utilitarios-desenv\UtilitariosDesenv\obj\Debug\net8.0\refint\UtilitariosDesenv.dll
+C:\Users\mvmar\OneDrive\Área de Trabalho\github\utilitarios-desenv\UtilitariosDesenv\obj\Debug\net8.0\UtilitariosDesenv.pdb
+C:\Users\mvmar\OneDrive\Área de Trabalho\github\utilitarios-desenv\UtilitariosDesenv\obj\Debug\net8.0\ref\UtilitariosDesenv.dll

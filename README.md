@@ -3,5 +3,3 @@ A Biblioteca de Utilitários para Desenvolvimento é uma coleção de ferramenta
 
 - Função para Consumo de API
 Uma função para facilitar o consumo de APIs, incluindo tratamento de erros e configuração de cabeçalhos padrão.
-
-

@@ -1,6 +1,6 @@
 ﻿namespace UtilitariosDesenv;
 
-public class Class1
+public class JsonHelper
 {
 
 }
